@@ -14,6 +14,13 @@ Published games for which I do not accept bug reports any more are:
 
 This is basically I no longer have the framework in which these games are written, making fixing bugs impossible.
 
+Games currently in development are:
+
+- Star Story
+- Aziëlla's Babbling Bubbles
+
+These games should either have their own repository + issue tracker or get one when the time is right.
+
 VERY IMPORTANT WHEN YOU REPORT BUGS:
 1. Since this repository handles MULTIPLE GAMES (and it will only grow over time) ALWAYS make sure to mention WHICH game you are talking about.
 2. And don't forget to mention your OS. It does not need to be OS dependent, but it can be.
